@@ -1,0 +1,1000 @@
+ 1001  vi sys1.c
+ 1002  gcc sys2.c
+ 1003  vi sys2.c
+ 1004  gcc sys2.c
+ 1005  vi sys2.c
+ 1006  gcc sys2.c
+ 1007  ./a.out
+ 1008  vi sys2.c
+ 1009  gcc sys2.c
+ 1010  ./a.out
+ 1011  ls -l
+ 1012  vi sys2.c
+ 1013  gcc sys2.c
+ 1014  vi sys2.c
+ 1015  gcc sys2.c
+ 1016  ./a.out
+ 1017  ls -l
+ 1018  vi sys2.c
+ 1019  vi abc2.txt
+ 1020  gcc sys2.c
+ 1021  ./a.out
+ 1022  vi abc2.txt
+ 1023  gcc sys2.c
+ 1024  ./a.out
+ 1025  vi abc2.txt
+ 1026  ./a.out
+ 1027  vi abc2.txt
+ 1028  vi sys22.txt
+ 1029  vi sys2.c
+ 1030  gcc sys2.c
+ 1031  ./a.out
+ 1032  vi sys2.c
+ 1033  gcc sys2.c
+ 1034  ./a.out
+ 1035  vi sys2.c
+ 1036  gcc sys2.c
+ 1037  ./a.out
+ 1038  vi sys2.c
+ 1039  gcc sys2.c
+ 1040  ./a.out
+ 1041  vi sys2.c
+ 1042  gcc sys2.c
+ 1043  ./a.out
+ 1044  vi sys2.c
+ 1045  gcc sys2.c
+ 1046  ./a.out
+ 1047  vi sys2.c
+ 1048  gcc sys2.c
+ 1049  ./a.out
+ 1050  vi sys2.c
+ 1051  vi sys3.c
+ 1052  gcc sys3.c
+ 1053  ./a.out
+ 1054  vi sys3.c
+ 1055  gcc sys3.c
+ 1056  ./a.out
+ 1057  gcc sys3.c
+ 1058  vi sys3.c
+ 1059  gcc sys3.c
+ 1060  ./a.out
+ 1061  vi sys3.c
+ 1062  gcc sys3.c
+ 1063  ./a.out
+ 1064  vi sys3.c
+ 1065  gcc sys3.c
+ 1066  ./a.out
+ 1067  vi abc2.txt
+ 1068  vi sys3.c
+ 1069  gcc sys3.c
+ 1070  ./a.out
+ 1071  vi abc1.txt
+ 1072  ./a.out
+ 1073  vi abc1.txt
+ 1074  vi sys3.c
+ 1075  gcc sys3.c
+ 1076  vi sys3.c
+ 1077  gcc sys3.c
+ 1078  ./a.out
+ 1079  vi abc1.txt
+ 1080  vi sys3.c
+ 1081  gcc sys3.c
+ 1082  ./a.out
+ 1083  vi sys3.c
+ 1084  vi abc1.txt
+ 1085  vi sys4_tst.c
+ 1086  gcc sys4_tst.c
+ 1087  ./a.out
+ 1088  vi sys4_tst.c
+ 1089  gcc sys4_tst.c
+ 1090  ./a.out
+ 1091  vi sys4_tst.c
+ 1092  vi sys4.c
+ 1093  gcc sys4.c
+ 1094  vi sys4.c
+ 1095  gcc sys4.c
+ 1096  vi sys4.c
+ 1097  gcc sys4.c
+ 1098  ./a.out
+ 1099  vi sys4.c
+ 1100  gcc sys4.c
+ 1101  ./a.out
+ 1102  vi sys4.c
+ 1103  gcc sys4.c
+ 1104  ./a.out
+ 1105  vi sys4.c
+ 1106  gcc sys4.c
+ 1107  ./a.out
+ 1108  vi sys4.c
+ 1109  gcc sys4.c
+ 1110  ./a.out
+ 1111  vi sys4.c
+ 1112  gcc sys4.c
+ 1113  ./a.out
+ 1114  vi sys4.c
+ 1115  vi sys5.c
+ 1116  gcc sys5.c
+ 1117  vi sys5.c
+ 1118  gcc sys5.c
+ 1119  vi sys5.c
+ 1120  gcc sys5.c
+ 1121  ./a.out
+ 1122  gcc sys5.c
+ 1123  vi sys5.c
+ 1124  gcc sys5.c
+ 1125  ./a.out
+ 1126  vi sys5.c
+ 1127  exit
+ 1128  exit
+ 1129  /home/eaugene/WebStorm-173.4127.31/bin
+ 1130  cd /home/eaugene/WebStorm-173.4127.31/bin
+ 1131  ls
+ 1132  sudo ./webstorm.sh
+ 1133  shutdown
+ 1134  date
+ 1135  ping google.com
+ 1136  ping 127.0.0.1
+ 1137  sudo apt update
+ 1138  sudo apt upgrade
+ 1139  sudo apt install node
+ 1140  node
+ 1141  sudo apt install nodejs
+ 1142  node
+ 1143  history
+ 1144  sqlmap
+ 1145  ls
+ 1146  cd Desktop
+ 1147  ls
+ 1148  sudo apt install sqlmap
+ 1149  sqlmap
+ 1150  sqlmap --help
+ 1151  sqlmap --wizard
+ 1152  nmap
+ 1153  sudo apt install nmap
+ 1154  arp -a
+ 1155  nmap -sp 10.13.*.*
+ 1156  nmap -sP 10.13.*.*
+ 1157  ifconfig
+ 1158  nmap -sn 10.13.14.1-100
+ 1159  nmap -sn 10.13.14.*
+ 1160  arp -a
+ 1161  ping 10.13.14.70
+ 1162  hit
+ 1163  ssh
+ 1164  ssh -R
+ 1165  ssh -R 127.0.0.1
+ 1166  server
+ 1167  service
+ 1168  service --status-all
+ 1169  service ssh start
+ 1170  sudo
+ 1171  #
+ 1172  hi
+ 1173  ....
+ 1174  fuck
+ 1175  studio.sh
+ 1176  ./studio.sh
+ 1177  ls
+ 1178  tracert
+ 1179  tracert6
+ 1180  ping google.com
+ 1181  cd ..
+ 1182  cd..
+ 1183  cd ..
+ 1184  ping
+ 1185  ping google.com
+ 1186  ping www.google.com
+ 1187  ping http://www.google.com
+ 1188  ping 127.0.0.1
+ 1189  python -m simplehttp
+ 1190  python -m simpleHTTP
+ 1191  python -m simplehttp
+ 1192  pythom -m SimpleHTTPServer:8008
+ 1193  pythom3 -m SimpleHTTPServer:8008
+ 1194  python3 -m SimpleHTTPServer:8008
+ 1195  python -m SimpleHTTPServer:8008
+ 1196  python -m SimpleHTTPServer 8008
+ 1197  ps ax
+ 1198  kill 17441
+ 1199  ps ax
+ 1200  python -m SimpleHTTPServer 8008
+ 1201  ps ax
+ 1202  kill
+ 1203  kill -n 17441
+ 1204  kill 17441
+ 1205  ps ax
+ 1206  ifconfig
+ 1207  ping google.com
+ 1208  mkdir oslab
+ 1209  cd oslab
+ 1210  vi sem1.c
+ 1211  gcc sem1.c -Wall -Werror -lpthread
+ 1212  ./a.out
+ 1213  gcc sem1.c -lpthread
+ 1214  ./a.out
+ 1215  gcc sem1.c
+ 1216  gcc sem1.c -lpthread
+ 1217  ./a.out
+ 1218  vi sem2.c
+ 1219  gcc sem2.c 
+ 1220  vi sem2.c
+ 1221  gcc sem2.c 
+ 1222  vi sem2.c
+ 1223  gcc sem2.c 
+ 1224  vi sem2.c
+ 1225  gcc sem2.c 
+ 1226  gcc sem2.c -lpthread
+ 1227  ./a.out
+ 1228  gcc sem2.c 
+ 1229  vi sem2.c
+ 1230  gcc sem2.c -lpthread
+ 1231  ./a.out
+ 1232  vi sem2.c
+ 1233  ./a.out
+ 1234  echo 123 | xclip -sel clip
+ 1235  sudo apt install xclip
+ 1236  echo 123 | xclip -sel clip
+ 1237  vi asd.c
+ 1238  gcc asd.c -lpthread
+ 1239  ./.out
+ 1240  ./a.out
+ 1241  cd Desktop
+ 1242  ls
+ 1243  mkdir oslab_proj
+ 1244  cd oslab_proj
+ 1245  ls
+ 1246  vi montecarlo.c
+ 1247  gedit montecarlo.c
+ 1248  gcc montecarlo.c -lpthread
+ 1249  gedit montecarlo.c
+ 1250  gcc montecarlo.c -lpthread
+ 1251  gedit montecarlo.c
+ 1252  gcc montecarlo.c -lpthread
+ 1253  gedit montecarlo.c
+ 1254  gcc montecarlo.c -lpthread
+ 1255  ./.a.out
+ 1256  ./a.out
+ 1257  100
+ 1258  ./a.out
+ 1259  gedit montecarlo.c
+ 1260  gcc montecarlo.c -lpthread
+ 1261  ./a.out
+ 1262  cd ..
+ 1263  ./aout
+ 1264  ./a.out
+ 1265  smbtree
+ 1266  sudo apt install smbclient
+ 1267  smbtree
+ 1268  cd Desktop/oslab_*
+ 1269  ls
+ 1270  git init
+ 1271  echo "For oslab project 2018 march" >> README.md
+ 1272  git add README.md
+ 1273  git commit -m "first commit"
+ 1274  git remote add origin https://github.com/eaugene/oslab.git
+ 1275  git push -u origin master
+ 1276  git add *
+ 1277  git commit -m 'second'
+ 1278  git push -u origin master
+ 1279  gedit montecarlo.txt
+ 1280  git add *
+ 1281  git commit -m 'third'
+ 1282  git push -u origin master
+ 1283  git pull origin master
+ 1284  git push -u origin master
+ 1285  xclip
+ 1286  xclip -o
+ 1287  xclip -i
+ 1288  xclip -o
+ 1289  gedit
+ 1290  cd Desktop
+ 1291  mkdir oslab_prac
+ 1292  ls
+ 1293  cd oslab_prac
+ 1294  ls
+ 1295  clear
+ 1296  vi 1.sh
+ 1297  chmod 777 1.sh
+ 1298  ./1.sh
+ 1299  vi 1.sh
+ 1300  ./1.sh
+ 1301  vi 1.sh
+ 1302  vi 2.sh
+ 1303  chmod 777 2.sh
+ 1304  ./2.sh
+ 1305  vi 2.sh
+ 1306  ./2.sh
+ 1307  vi 2.sh
+ 1308  ./2.sh
+ 1309  vi 2.sh
+ 1310  wc
+ 1311  wc 2.sh
+ 1312  wc -l
+ 1313  wc -l 2.sh
+ 1314  wc -w 2.sh
+ 1315  wc -m 2.sh
+ 1316  wc -c 2.sh
+ 1317  vi fact.sh
+ 1318  chmod fact.sh
+ 1319  chmod 777 fact.sh
+ 1320  ./fact.sh
+ 1321  chmod fact.sh
+ 1322  vi fact.sh
+ 1323  ./fact.sh
+ 1324  vi fact.sh
+ 1325  ./fact.sh
+ 1326  vi fact.sh
+ 1327  ./fact.sh
+ 1328  vi fact.sh
+ 1329  ./fact.sh
+ 1330  vi fact.sh
+ 1331  ./fact.sh
+ 1332  vi fact.sh
+ 1333  ./fact.sh
+ 1334  vi fact.sh
+ 1335  ./fact.sh
+ 1336  vi fact.sh
+ 1337  vi fact1.sh
+ 1338  ./fact1.sh
+ 1339  chmod 777 fact1.sh
+ 1340  ./fact1.sh
+ 1341  vi fact1.sh
+ 1342  vi fact.sh
+ 1343  ./fact.sh
+ 1344  vi fact.sh
+ 1345  ./fact.sh
+ 1346  vi fact1.sh
+ 1347  vi fact.sh
+ 1348  ./fact.sh
+ 1349  vi fact.sh
+ 1350  ./fact.sh
+ 1351  cd Desktop
+ 1352  cd oslab_*
+ 1353  cd oslab_prac
+ 1354  ls
+ 1355  echo "hello">>abc.txt
+ 1356  echo "hi da">>abc.txt
+ 1357  awk '{print $1}'
+ 1358  awk '{print $1}' abc.txt
+ 1359  awk '{print 1d}' abc.txt
+ 1360  awk '{print 1s}' abc.txt
+ 1361  awk '{print 1n}' abc.txt
+ 1362  awk '{print $0}' abc.txt
+ 1363  awk '{print $-1}' abc.txt
+ 1364  head -m 1 abc.txt
+ 1365  head -n 1 abc.txt
+ 1366  head -n 2 abc.txt
+ 1367  head -n 1,2 abc.txt
+ 1368  head -n 2 1 abc.txt
+ 1369  man head
+ 1370  awk '{print 2,2d}' abc.txt
+ 1371  awk '{print 2,2p}' abc.txt
+ 1372  sed -n '2,2p' abc.txt
+ 1373  sed -n '1,2p' abc.txt
+ 1374  sed -n '1,2p$1' abc.txt
+ 1375  sed -n '1,2p $1' abc.txt
+ 1376  sed -n '1,2$1' abc.txt
+ 1377  sed -n '$1' abc.txt
+ 1378  sed -n '' abc.tx
+ 1379  sed -n '2,5p' 2.sh
+ 1380  sed -n '2,5p' 2.sh
+ 1381  sed -n '2,2p' abc.txt|awk '{print $1}'
+ 1382  abc.txt
+ 1383  cat abc.txt
+ 1384  sed "s_h_@_2" abc.txt
+ 1385  sed "s_h*_@_2" abc.txt
+ 1386  sed "s_l_@_2" abc.txt
+ 1387  sed "s_h_@_1" abc.txt
+ 1388  cat 2.sh
+ 1389  sed "2d" 2.sh
+ 1390  sed "2,5d" 2.sh
+ 1391  sed "2,5d" 2.sh | awk '{print $1}'
+ 1392  sed "2,5p" 2.sh | awk '{print $1}'
+ 1393  sed "2,5p" 2.sh
+ 1394  sed "5p" 2.sh
+ 1395  sed "1p" 2.sh
+ 1396  sed -n "5p" 2.sh
+ 1397  sed -n "2,5p" 2.sh
+ 1398  sed -n "2,5p" 2.sh |awk '{print $1}'|sort
+ 1399  sed -n "2,5p" 2.sh |awk '{print $1}'
+ 1400  sed -n "2,5p" 2.sh |awk '{print $1}'|sort
+ 1401  sed -n "2,5p" 2.sh |awk '{print $1}'|sort -r
+ 1402  sed "s_*e*_#_g" 2.sh
+ 1403  sed "s_e*_#_g" 2.sh
+ 1404  sed "s_*e_#_g" 2.sh
+ 1405  sed "s_e_#_g" 2.sh
+ 1406  sed "s_%e_#_g" 2.sh
+ 1407  sed "s_\e*\_#_g" 2.sh
+ 1408  sed "s_\\e*\\_#_g" 2.sh
+ 1409  sed "s_\*e\*_#_g" 2.sh
+ 1410  sed "s_\*\e\*_#_g" 2.sh
+ 1411  sed "s/*e/#/g" 2.sh
+ 1412  sed "s/e*/#/g" 2.sh
+ 1413  sed "s/echo/d" 2.sh
+ 1414  sed "/echo/d" 2.sh
+ 1415  cat 2.sh
+ 1416  sed "s/read/text/g" 2.sh
+ 1417  sed "s/ead/text/g" 2.sh
+ 1418  sed "s/*ead/text/g" 2.sh
+ 1419  echo "Decomber has christmas" >> test7.txt;echo "January has newyear">>test7.txt
+ 1420  cat test7.txt
+ 1421  awk ."/christmas/{print "on 25th"} {print}" test7.txt
+ 1422  awk .'/christmas/{print "on 25th"} {print}' test7.txt
+ 1423  awk '/christmas/{print "on 25th"} {print}' test7.txt
+ 1424  awk '/christmas/{print "on 25th"}' test7.txt
+ 1425  awk '{print} /christmas/{print "on 25th"}' test7.txt
+ 1426  awk '{print} /newyear/{print "on 25th"}' test7.txt
+ 1427  awk '{print} /new/{print "on 25th"}' test7.txt
+ 1428  awk '{print} /has/{print "on 25th"}' test7.txt
+ 1429  echo "today is hostelday">>test7.txt
+ 1430  awk -v c 'BEGIN{c=0} /has/{c++} END{print c}' test7.txt
+ 1431  man awk
+ 1432  awk -v c=0 'BEGIN{c=0} /has/{c++} END{print c}' test7.txt
+ 1433  echo "has">>test7.txt
+ 1434  awk -v c=0 'BEGIN{c=0} /has/{c++} END{print c}' test7.txt
+ 1435  grep -c "has" test7.txt
+ 1436  vi test7.txt
+ 1437  awk -v c=0 'BEGIN{c=0} /has/{c++} END{print c}' test7.txt
+ 1438  grep -c "has" test7.txt
+ 1439  grep -c  "has" test7.txt
+ 1440  grep -n "has" test7.txt
+ 1441  vi test7.txt
+ 1442  grep -n "has" test7.txt
+ 1443  grep -n " has " test7.txt
+ 1444  man grep
+ 1445  grep '\<\has\>' test7.txt
+ 1446  grep 'has' test7.txt
+ 1447  grep '\<\has' test7.txt
+ 1448  vi test7.txt
+ 1449  grep '\<\has' test7.txt
+ 1450  grep -b 'has' test7.txt
+ 1451  grep -i '\[A-Za-z]\' test7.txt
+ 1452  grep -i '[A-Za-z]' test7.txt
+ 1453  grep -i '[A-Za-z]\december' test7.txt
+ 1454  grep -i '[A-Za-z]\decomber' test7.txt
+ 1455  grep -i '[A-Za-z]\has' test7.txt
+ 1456  grep -i '[A-Za-z]\year' test7.txt
+ 1457  grep -i '[A-Za-z]year' test7.txt
+ 1458  grep -i '_year' test7.txt
+ 1459  grep -i '.year' test7.txt
+ 1460  grep -i '*year' test7.txt
+ 1461  grep -i '\*year' test7.txt
+ 1462  grep -i '*has' test7.txt
+ 1463  grep -i '.as' test7.txt
+ 1464  grep -i '.has' test7.txt
+ 1465  grep -i '_has' test7.txt
+ 1466  grep -i '*has' test7.txt
+ 1467  grep  '*has' test7.txt
+ 1468  cd /home/eaugene/Documents/oslab/18-12-17/spot2
+ 1469  ls
+ 1470  vi sh2.sh
+ 1471  man sort
+ 1472  chmod 777 sh2.sh
+ 1473  ./sh2.sh
+ 1474  cat smple.txt
+ 1475  cat srt1.txt
+ 1476  vi sh2.sh
+ 1477  ./sh2.sh
+ 1478  cat srt1.txt
+ 1479  vi sh2.sh
+ 1480  ./sh2.sh
+ 1481  vi sh2.sh
+ 1482  ./sh2.sh
+ 1483  man sort
+ 1484  ls
+ 1485  cd ..
+ 1486  ls
+ 1487  cd spot1
+ 1488  ls
+ 1489  cat sh2.sh
+ 1490  cat sptest5.txt
+ 1491  cat sptest6.txt
+ 1492  cat sh2.sh
+ 1493  sed 's/\.[0-9]*/y/g' sptest5.txt
+ 1494  sed 's/\.[0-9]*//g' sptest5.txt
+ 1495  cd ..;cd spot2
+ 1496  ls
+ 1497  cat *
+ 1498  vi sh1.sh
+ 1499  cat smple.txt
+ 1500  awk '{$1*$2}' smple.txt
+ 1501  awk '{$1\*$2}' smple.txt
+ 1502  vi sh1.sh
+ 1503  awk '{print $1*$2}' smple.txt
+ 1504  awk '{print 'haha'}{print $1*$2}' smple.txt
+ 1505  awk '{print "haha"}{print $1*$2}' smple.txt
+ 1506  awk 'begin{print "haha"}{print $1*$2}' smple.txt
+ 1507  awk 'BEGIN{print "haha"} {print $1*$2}' smple.txt
+ 1508  awk 'BEGIN{print "haha"}{print $1*$2}' smple.txt
+ 1509  awk 'BEGIN{print "haha" print "hi"}{print $1*$2}' smple.txt
+ 1510  awk 'BEGIN{print "haha", print "hi"}{print $1*$2}' smple.txt
+ 1511  awk 'BEGIN{print "haha"; print "hi"}{print $1*$2}' smple.txt
+ 1512  cd ..
+ 1513  mkdir test
+ 1514  cd test
+ 1515  vi 1.sh
+ 1516  chmod 777 1.sh
+ 1517  ./1.sh
+ 1518  vi 1.sh
+ 1519  vi os_test.txt
+ 1520  ./1.sh
+ 1521  vi 1.sh
+ 1522  ./1.sh
+ 1523  vi print.sh
+ 1524  chmod 777 print.sh
+ 1525  ./print.sh
+ 1526  vi 1.sh
+ 1527  ./1.sh
+ 1528  vi make.c
+ 1529  gcc make.c
+ 1530  ./a.out
+ 1531  vi make.c
+ 1532  gcc make.c
+ 1533  ./a.out
+ 1534  clear
+ 1535  cd ..
+ 1536  rm test
+ 1537  rmdir test
+ 1538  sudo rmdir test
+ 1539  cd test
+ 1540  ls
+ 1541  vi 1.sh
+ 1542  vi print.sh
+ 1543  rm print.sh
+ 1544  rm 1.sh
+ 1545  vi os_test.txt
+ 1546  rm os_test.txt
+ 1547  vi make.c
+ 1548  rm make.c
+ 1549  cd ..
+ 1550  rmdir test
+ 1551  cd test
+ 1552  ls
+ 1553  rm a.out
+ 1554  ls
+ 1555  cd ..
+ 1556  rmdir test
+ 1557  cd documents
+ 1558  cd Documents
+ 1559  clear
+ 1560  ls
+ 1561  cd /Desktop/oslab_prac
+ 1562  cd /Desktop
+ 1563  cd ..
+ 1564  cd /Desktop/oslab_prac
+ 1565  cd /Desktop
+ 1566  ls
+ 1567  cd home
+ 1568  cd /Desktop
+ 1569  cd ~
+ 1570  cd /Desktop/oslab_prac
+ 1571  cd Desktop/oslab_prac
+ 1572  ls
+ 1573  cat os_assess.tx
+ 1574  cat os_assess.txt
+ 1575  vi 1.sh
+ 1576  vi parent.sh
+ 1577  chmod 755 parent.sh
+ 1578  ./parent.sh
+ 1579  vi parent.sh
+ 1580  ./parent.sh
+ 1581  vi parent.sh
+ 1582  ./parent.sh
+ 1583  vi parent.sh
+ 1584  ./parent.sh
+ 1585  vi child.sh
+ 1586  chmod 777 child.sh
+ 1587  ./child.sh
+ 1588  vi make.c
+ 1589  gcc make.c
+ 1590  ./a.out
+ 1591  vi make.c
+ 1592  gcc make.c
+ 1593  ./a.out
+ 1594  vi make.c
+ 1595  vi parent.sh
+ 1596  ls
+ 1597  cat os_assess.txt
+ 1598  sort os_assess.txt
+ 1599  sort -k 2os_assess.txt
+ 1600  sort -k 2 os_assess.txt
+ 1601  sort -k 2 -n os_assess.txt
+ 1602  sort -k 2 -n -r os_assess.txt
+ 1603  sort -k 2 -g -r os_assess.txt
+ 1604  man sort
+ 1605  sort -k 2 -r os_assess.txt
+ 1606  sort -k 2 -d -r os_assess.txt
+ 1607  sort -k 2 -t -r os_assess.txt
+ 1608  sort -k 2 -t os_assess.txt
+ 1609  vi testq.txt
+ 1610  vi l3.c
+ 1611  gedit l3.c
+ 1612  vi l3.c
+ 1613  gcc l3.c
+ 1614  ./a.out
+ 1615  cat testq.txt
+ 1616  locate test.txt
+ 1617  cd ..
+ 1618  ls
+ 1619  cd oslab
+ 1620  mkdir test
+ 1621  cd test
+ 1622  vi test.txt
+ 1623  cd ..
+ 1624  locate test.txt
+ 1625  locate -g test.txt
+ 1626  man locate
+ 1627  gcc us1.c -us1
+ 1628  vi us1.c
+ 1629  gcc us1.c -us1
+ 1630  vi us2.c
+ 1631  gcc us2.c -us2
+ 1632  ./us1
+ 1633  ls
+ 1634  gcc us2.c -o us2
+ 1635  gcc us1.c -o us1
+ 1636  ./us1
+ 1637  vi us2.c
+ 1638  vi us1.c
+ 1639  gcc us1.c -o us1
+ 1640  gcc us2.c -o us2
+ 1641  ./us1
+ 1642  vi us2.c
+ 1643  gcc us2.c -o us2
+ 1644  ./us2
+ 1645  vi e1.sh
+ 1646  chmod 777 e1.sh
+ 1647  ./e1.sh 3 4
+ 1648  vi e1.sh
+ 1649  ./e1.sh 3 4
+ 1650  vi ex.c
+ 1651  gcc ex.c
+ 1652  vi ex.c
+ 1653  gcc ex.c
+ 1654  vi ex.c
+ 1655  gcc ex.c
+ 1656  vi ex.c
+ 1657  gcc ex.c
+ 1658  ./a.out
+ 1659  vi ex.c
+ 1660  gcc ex.c
+ 1661  vi ex.c
+ 1662  gcc ex.c
+ 1663  ./a.out
+ 1664  vi ex.c
+ 1665  ./a.out
+ 1666  gcc ex.c
+ 1667  ./a.out
+ 1668  vi ex.c
+ 1669  gcc ex.c
+ 1670  ./a.out
+ 1671  vi e1.sh
+ 1672  vi ex.c
+ 1673  gcc ex.c
+ 1674  ./a.out
+ 1675  vi ex.c
+ 1676  gcc ex.c
+ 1677  ./a.out
+ 1678  vi ex.c
+ 1679  vi e1.sh
+ 1680  vi ex.c
+ 1681  clear
+ 1682  vi th1.c
+ 1683  gcc th1.c -lpthread
+ 1684  ./a.out
+ 1685  vi th1.c
+ 1686  gcc th1.c -lpthread
+ 1687  ./a.out
+ 1688  vi th1.c
+ 1689  gcc th1.c -lpthread
+ 1690  vi th1.c
+ 1691  gcc th1.c -lpthread
+ 1692  ./a.out
+ 1693  ps ax
+ 1694  vi th1.c
+ 1695  gcc th1.c -lpthread
+ 1696  ./a.out
+ 1697  vi th1.c
+ 1698  gcc th1.c -lpthread
+ 1699  ./a.out
+ 1700  vi th1.c
+ 1701  gcc th1.c -lpthread
+ 1702  vi th1.c
+ 1703  gcc th1.c -lpthread
+ 1704  ./a.out
+ 1705  vi th1.c
+ 1706  gcc th1.c -lpthread
+ 1707  ./a.out
+ 1708  vi th1.c
+ 1709  gcc th1.c -lpthread
+ 1710  ./a.out
+ 1711  vi th1.c
+ 1712  gcc th1.c -lpthread
+ 1713  ./a.out
+ 1714  vi th1.c
+ 1715  gcc th1.c -lpthread
+ 1716  ./a.out
+ 1717  vi th1.c
+ 1718  $alias rename="mv $1 $2"
+ 1719  $alias renme="mv $1 $2"
+ 1720  $alias renme ="mv $1 $2"
+ 1721  $alias renme ='mv $1 $2'
+ 1722  history
+ 1723  alias rename ="mv $1 $2"
+ 1724  history | grep 'rename'
+ 1725  alias rename ='mv $1 $2'
+ 1726  alias renme ='mv $1 $2'
+ 1727  alias renme = 'mv $1 $2'
+ 1728  ls
+ 1729  rename abc.txt xyx.txt
+ 1730  sudo alias rename = mv $1 $2
+ 1731  man alias
+ 1732  lias
+ 1733  alias
+ 1734  alias rnme='mv $1 $2'
+ 1735  alias rename='mv $1 $2'
+ 1736  rename abc.txt xyx.txt
+ 1737  ls
+ 1738  mkdir sch;cd sch
+ 1739  vi sjfp.c
+ 1740  gcc sjfp.c
+ 1741  ./a.out
+ 1742  vi sjfp.c
+ 1743  gcc sjfp.c
+ 1744  ./a.out
+ 1745  vi sjfp.c
+ 1746  gcc sjfp.c
+ 1747  ./a.out
+ 1748  vi sjfp.c
+ 1749  gcc sjfp.c
+ 1750  ./a.out
+ 1751  vi sjfp.c
+ 1752  vi sjfn.c
+ 1753  gcc sjfn.c
+ 1754  mv sjfn.c sjfn.cpp
+ 1755  g++ sjfn.cpp
+ 1756  vi sjfn.cpp
+ 1757  g++ sjfn.cpp
+ 1758  vi sjfn.cpp
+ 1759  g++ sjfn.cpp
+ 1760  ./a.out
+ 1761  vi sjfn.cpp
+ 1762  g++ sjfn.cpp
+ 1763  vi sjfn.cpp
+ 1764  g++ sjfn.cpp
+ 1765  ./a.out
+ 1766  vi sjfn.cpp
+ 1767  g++ sjfn.cpp
+ 1768  ./a.out
+ 1769  vi sjfn.cpp
+ 1770  g++ sjfn.cpp
+ 1771  ./a.out
+ 1772  vi sjfn.cpp
+ 1773  vi prip.cpp
+ 1774  g++ prip.cpp
+ 1775  vi prip.cpp
+ 1776  g++ prip.cpp
+ 1777  ./a.out
+ 1778  vi prip.cpp vi prin.cpp
+ 1779  cp prip.cpp prin.cpp
+ 1780  vi prin.cpp
+ 1781  g++ prin.cpp
+ 1782  ./a.out
+ 1783  cp prip.cpp lprip.cpp
+ 1784  vi lprip.cpp
+ 1785  gcc lprip.cpp
+ 1786  g++ lprip.cpp
+ 1787  ./a.out
+ 1788  cp prin.cpp lprin.cpp
+ 1789  vi lprin.cpp
+ 1790  gcc lprin.cpp
+ 1791  g++ lprin.cpp;clear
+ 1792  ./a.out
+ 1793  vi lrtp.cpp
+ 1794  g++ lrtp.cpp
+ 1795  vi lrtp.cpp
+ 1796  g++ lrtp.cpp
+ 1797  ./a.out
+ 1798  vi lrtp.cpp
+ 1799  g++ lrtp.cpp
+ 1800  ./a.out
+ 1801  cp lrtp.cpp lrtn.cpp
+ 1802  vi lrtn.cpp
+ 1803  g++ lrtn.cpp
+ 1804  ./a.out
+ 1805  ls
+ 1806  vi hrrn.cpp
+ 1807  g++ hrrn.cpp
+ 1808  ./a.out
+ 1809  vi hrrn.cpp
+ 1810  g++ hrrn.cpp
+ 1811  vi hrrn.cpp
+ 1812  g++ hrrn.cpp
+ 1813  vi hrrn.cpp
+ 1814  g++ hrrn.cpp
+ 1815  vi hrrn.cpp
+ 1816  g++ hrrn.cpp
+ 1817  ./a.out
+ 1818  cd Desktop
+ 1819  ls
+ 1820  cd oslab_prac
+ 1821  ls
+ 1822  vi msgq.c
+ 1823  gcc msgq.c
+ 1824  vi msgq.c
+ 1825  gcc msgq.c
+ 1826  ./a.out
+ 1827  vi msgr.c
+ 1828  gcc msgr.c
+ 1829  ./a.out
+ 1830  vi msgr.c
+ 1831  gcc msgr.c
+ 1832  ./a.out
+ 1833  vi msgr.c
+ 1834  vi msgq.c
+ 1835  gcc msgq.c
+ 1836  ./a.out
+ 1837  gcc msgr.c
+ 1838  ./a.out
+ 1839  vi msgq.c
+ 1840  vi shmq.c
+ 1841  gcc shmq.c
+ 1842  vi shmq.c
+ 1843  gcc shmq.c
+ 1844  vi shmq.c
+ 1845  gcc shmq.c
+ 1846  ./a.out
+ 1847  vi shmread.c
+ 1848  gcc shmread.c
+ 1849  vi shmread.c
+ 1850  gcc shmread.c
+ 1851  vi shmread.c
+ 1852  gcc shmread.c
+ 1853  vi shmread.c
+ 1854  gcc shmread.c
+ 1855  ./a.out
+ 1856  vi p1.c
+ 1857  vi p1.cpp
+ 1858  g++ p1.c
+ 1859  g++ p1.cpp
+ 1860  ./a.out
+ 1861  g++ p1.c
+ 1862  vi p1.cpp
+ 1863  g++ p1.cpp
+ 1864  vi p1.cpp
+ 1865  g++ p1.cpp
+ 1866  ./a.out
+ 1867  awk '{for(i=0;i<5;i++)} {print $i}'
+ 1868  awk '{for(i=0;i<5;i++)} {print $i}' 2.sh
+ 1869  awk '{for(i=0;i<5;i++) print $i}' 2.sh
+ 1870  awk '{for(i=0;i<5;i++) print i}'
+ 1871  awk 'BEGIN{for(i=0;i<5;i++) print i}'
+ 1872  awk 'END{for(i=0;i<5;i++) print i}'
+ 1873  awk 'BEGIN{for(i=0;i<5;i++)}{ print i}'
+ 1874  awk 'BEGIN{for(i=0;i<5;i++)print i}'
+ 1875  echo $?
+ 1876  vi p1.cpp
+ 1877  vi us1.c
+ 1878  cp us1.c us2.c
+ 1879  vi us2.c
+ 1880  ./us2
+ 1881  ./us1
+ 1882  cd Desktop/oslab_prac
+ 1883  ls
+ 1884  cd sch
+ 1885  vi rr.c
+ 1886  mv rr.c rr.cpp
+ 1887  vi rr.cpp
+ 1888  cd Desktop/oslab_prac
+ 1889  cd sch
+ 1890  vi rr.cpp
+ 1891  g++ rr.cpp
+ 1892  vi rr.cpp
+ 1893  g++ rr.cpp
+ 1894  ./a.out
+ 1895  ls
+ 1896  cd ..
+ 1897  ls
+ 1898  vi mk.sh
+ 1899  vi mk,c
+ 1900  vi mk.c
+ 1901  gcc mk.c
+ 1902  ./a.out
+ 1903  ls
+ 1904  cd eaugene
+ 1905  cd ..
+ 1906  gcc mk.c
+ 1907  ./a.out
+ 1908  ping google.com
+ 1909  wget google.com
+ 1910  vi index.html
+ 1911  pwd
+ 1912  cd desktop
+ 1913  cd ..
+ 1914  ;s
+ 1915  ls
+ 1916  cd ..
+ 1917  ls
+ 1918  cd home
+ 1919  cd eaugene
+ 1920  ls
+ 1921  cd Desktop
+ 1922  ls
+ 1923  mkdir scopy
+ 1924  vu scopy
+ 1925  cd scopy
+ 1926  ls
+ 1927  clear
+ 1928  echo "hello" | clip
+ 1929  xclip
+ 1930  xclip --help
+ 1931  man xclip
+ 1932  sudo apt-get install xclip
+ 1933  xclip -o "hey dude"
+ 1934  xclip "hey dude"
+ 1935  echo "hey dude"|xclip
+ 1936  echo "hey dude" | xclip
+ 1937  vi abc.txt
+ 1938  cat abc.txt | xclip
+ 1939  xclip -o
+ 1940  cat abc.txt | xclip -selection clipboard
+ 1941  echo "otha" | xclip -selection clipboard
+ 1942  echo "/home/eaugene/quickstart.php" | xclip -selection clipboard
+ 1943  xclip -o
+ 1944  echo "/home/eaugene/quickstart.php" | xclip -selection clipboard
+ 1945  xclip -o
+ 1946  echo "otha" | xclip -selection clipboard
+ 1947  xclip -o
+ 1948  clipboard
+ 1949  echo "/home/eaugene/quickstart.php" | xclip -selection clipboard
+ 1950  xclip -o -selection clipboard
+ 1951  echo "/home/eaugene/quickstart.php" | xclip -selection clipboard
+ 1952  xclip -o -selection clipboard
+ 1953  vi c.sh
+ 1954  chmod c.sh
+ 1955  chmod 777 c.sh
+ 1956  ./c.sh poda dei
+ 1957  ./c.sh "poda dei"
+ 1958  vi v.sh
+ 1959  chmod 777 v.sh
+ 1960  ./v.sh
+ 1961  ./c.sh "tomorrow is sunday"
+ 1962  ./v.sh
+ 1963  vi alis.sh
+ 1964  chmod 777 alis.sh
+ 1965  ./alis.sh
+ 1966  cc "hello dude"
+ 1967  vi alis.sh
+ 1968  ./alis.sh
+ 1969  cc "hello dude"
+ 1970  vc
+ 1971  alias "cpy=./c.sh $1"
+ 1972  cpy the book
+ 1973  cpy "the book"
+ 1974  alias "pst=./v.sh"
+ 1975  pst
+ 1976  gedit alis.sh
+ 1977  ./alis.sh
+ 1978  cpy1 "good boy"
+ 1979  cpy "good boy"
+ 1980  pst
+ 1981  cd ..;cdoslab_proj
+ 1982  cd oslab_proj
+ 1983  ls
+ 1984  history
+ 1985  git commit -m 'third'
+ 1986  git commit -m 'fourth'
+ 1987  git add --all
+ 1988  git commit -m 'fourth'
+ 1989  git push -u origin master
+ 1990  youtube
+ 1991  sudo apt install youtube
+ 1992  sudo apt install uclip
+ 1993  cd Desktop
+ 1994  ls
+ 1995  cd oslab_prac
+ 1996  ls
+ 1997  vi 1.sh
+ 1998  vi 4.sh
+ 1999  chmod 777 4.sh
+ 2000  history >> his.txt

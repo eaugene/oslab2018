@@ -1,0 +1,6 @@
+Reg.No	Name	Marks
+501	rama	90
+502	sai	100
+503	cibi	99
+504	jon	98
+505	hari	99

@@ -1,0 +1,2 @@
+this is dbms lab
+this is os lab

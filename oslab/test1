@@ -1,0 +1,18 @@
+#!bin/bash/
+
+read -a arr
+mx=${arr[0]}
+mi=${arr[0]}
+for i in ${arr[@]}
+do
+	if [ $i -gt $mx ]
+	then
+		mx=$i
+	fi	
+	if [ $i -lt $mi ]
+        then
+		mi=$i
+	fi
+done
+echo "MINIMUM : "$mi
+echo "MAXIMUM : "$mx
